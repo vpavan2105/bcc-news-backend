@@ -35,6 +35,12 @@
       "username": "Saurabh",
       "password": "1234"
     
+    },
+    {
+      "id": 7,
+      "username": "user",
+      "password": "1234"
+    
     }
   
   ],
